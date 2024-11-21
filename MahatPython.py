@@ -13,6 +13,8 @@
 #     is_perfect(num)
 
 
+# itamar's commit no. 2
+
 # 2.
 # import re
 #
